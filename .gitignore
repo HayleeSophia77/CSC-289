@@ -8,6 +8,12 @@ env/
 .venv/
 venv/
 
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+project_v1/data/
+
 # OS files
 .DS_Store
 Thumbs.db

@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "${workspaceFolder}/project_v1"
+    ]
+}
